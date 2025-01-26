@@ -1,0 +1,10 @@
+diff a/Website/main.html b/Website/main.html	(rejected hunks)
+@@ -37,7 +37,7 @@
+               </li>
+             </ul>
+             <span class="navbar-text">
+-              Sobre
++              About
+             </span>
+           </div>
+         </div>
